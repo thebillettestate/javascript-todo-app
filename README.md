@@ -7,9 +7,11 @@ Helps keep track of the things you have left to do.
 - [http-server](https://www.npmjs.com/package/http-server) (optional).
 
 ## Development
-- Clone repository:
+- Fork repository.
+
+- Clone repository from your fork:
 ```
-git clone https://github.com/jasonblanchard/javascript-todo-app.git
+git clone https://github.com/[YOUR USER NAME]/javascript-todo-app.git
 ```
 
 - `cd` into project directory:
