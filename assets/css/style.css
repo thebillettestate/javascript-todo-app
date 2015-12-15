@@ -1,4 +1,8 @@
 body {
   background: #C9C4C4; }
 
+.todo.completed {
+	text-decoration: line-through;
+}
+
 /*# sourceMappingURL=style.css.map */
